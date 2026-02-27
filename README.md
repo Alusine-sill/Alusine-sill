@@ -28,7 +28,7 @@ A comprehensive web-based school management system built with PHP, MySQL, JavaSc
 ## Usage
 - **Admin Login:**
 - UserName : admin
-- Passwoer : password123
+- Password : password123
 - **Teacher Login:**
 - UserName : teacher 
 - Password : password123
