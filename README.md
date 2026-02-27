@@ -1,16 +1,42 @@
-## Hi there 👋
+# School Management Portal
 
-<!--
-**Alusine-sill/Alusine-sill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A comprehensive web-based school management system built with PHP, MySQL, JavaScript, and HTML/CSS. This system allows administrators to manage student records, track attendance, and generate reports.
 
-Here are some ideas to get you started:
+## Live Demo
+[https:myeas-school-portal.kesug.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- 🔐 Secure user authentication (Admin/Teacher roles)
+- 👨‍🎓 Student record management (Add, View, Update, Delete)
+- 📊 Dashboard with key metrics
+- 📱 Responsive design for mobile and desktop
+- 🔍 Search and filter functionality
+
+## Technologies Used
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Tools:** Git, VS Code
+- **AI Assistance:** DeepSeek, ChatGPT for debugging and optimization
+
+## Installation
+1. Clone this repository
+2. Import the database.sql file to your MySQL server
+3. Configure database connection in `includes/config.php`
+4. Upload to your web server
+
+## Usage
+- **Admin Login:**
+- UserName : admin
+- Passwoer : password123
+- **Teacher Login:**
+- UserName : teacher 
+- Password : password123
+- **Parent Login:**
+- UserName : parent 
+- Password : password123
+- **Teacher Login:**
+- UserName : teacher 
+- Password : password123
+
+## Project Structure
