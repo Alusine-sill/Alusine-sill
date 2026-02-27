@@ -3,7 +3,7 @@
 A comprehensive web-based school management system built with PHP, MySQL, JavaScript, and HTML/CSS. This system allows administrators to manage student records, track attendance, and generate reports.
 
 ## Live Demo
-[https:myeas-school-portal.kesug.com]
+[https://myeas-school-portal.kesug.com]
 
 ## Features
 - 🔐 Secure user authentication (Admin/Teacher roles)
