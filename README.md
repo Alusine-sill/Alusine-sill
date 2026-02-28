@@ -26,17 +26,9 @@ A comprehensive web-based school management system built with PHP, MySQL, JavaSc
 4. Upload to your web server
 
 ## Usage
-- **Admin Login:**
-- UserName : admin
-- Password : password123
-- **Teacher Login:**
-- UserName : teacher 
-- Password : password123
-- **Parent Login:**
-- UserName : parent 
-- Password : password123
-- **Teacher Login:**
-- UserName : teacher 
-- Password : password123
+- **Admin Login:**   UserName : admin    Password : password123
+- **Teacher Login:** UserName : teacher  Password : password123
+- **Parent Login:**  UserName : parent   Password : password123
+- **Teacher Login:** UserName : teacher  Password : password123
 
 ## Project Structure
